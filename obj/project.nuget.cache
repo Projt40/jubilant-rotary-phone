@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wm6lKjOMhz+VAnWaTvvOFjLXqxkFNX7anIhtyC8bQGAjJV6IzRTnlMx30F+IQpvmLOYUENU8+hNPtLAM7FHyvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\otavi\\OneDrive\\Documentos\\Docs\\Dio\\dio-dotnet-poo-lab-2-master\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\otavi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\otavi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\otavi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\otavi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
